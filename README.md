@@ -11,7 +11,7 @@ Este projeto automatiza o processo de emissão de notas fiscais utilizando Pytho
 
 O código contém diversos mecanismos de segurança e robustez, incluindo tratamentos de exceções, verificações de preenchimento de campos e validações de dados. Este trabalho é especialmente relevante para interessados em automação de processos, integração web e manipulação de dados em ambiente real.
 
-**Nota de importância:** 9/10  
+
 Este projeto demonstra um alto nível de sofisticação na automação web, apresentando técnicas avançadas de manipulação de dados e controle de fluxo com Selenium, o que o torna uma referência importante para profissionais na área de automação de processos e sistemas integrados.
 
 ---
@@ -26,7 +26,7 @@ This project automates the invoice issuance process using Python and Selenium. I
 
 The code employs various security and robustness mechanisms, including exception handling, field input validations, and data verification. This project is highly relevant for those interested in process automation, web integration, and real-world data processing.
 
-**Importance Rating:** 9/10  
+
 This project showcases advanced techniques in web automation, data manipulation, and flow control using Selenium, making it a valuable reference for professionals in process automation and integrated systems.
 
 ---
@@ -41,5 +41,5 @@ Este proyecto automatiza el proceso de emisión de facturas utilizando Python y 
 
 El código incorpora diversos mecanismos de seguridad y robustez, como el manejo de excepciones, validaciones de campos y verificación de datos. Este proyecto es de gran interés para quienes trabajan en la automatización de procesos, integración web y procesamiento de datos en entornos reales.
 
-**Calificación de importancia:** 9/10  
+ 
 El proyecto demuestra técnicas avanzadas en la automatización web, manipulación de datos y control de flujo mediante Selenium, lo cual lo convierte en una referencia valiosa para profesionales en automatización de procesos y sistemas integrados.
